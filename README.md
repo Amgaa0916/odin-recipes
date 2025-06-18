@@ -1,5 +1,5 @@
-Brief introduction describing what the current project is and what skills 
-you will have demonstrated once you have completed it 
-Do it as a self reflection at the end of the project.
+Practiced using basic Html tags by creating this site. Learned to write boilerplate, anchor element and their attributes. 
+
+Most important part was to get used to git commands. Tried to commit every new line of my html onto the github site. 
 # odin-recipes
 html-project
