@@ -2,6 +2,12 @@ h1{
     text-align:center;
 }
 .image{
+    margin-right: 30px;
     width:400px;
-    margin: 0 auto;
+    float:left;
+}
+.ingre{
+
+    margin:10px;
+    display: inline-block;
 }
