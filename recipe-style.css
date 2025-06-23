@@ -1,3 +1,6 @@
+body{
+    box-sizing: border-box;
+}
 h1{
     text-align:center;
 }
@@ -8,6 +11,6 @@ h1{
 }
 .ingre{
 
-    margin:10px;
+    margin-right:auto;
     display: inline-block;
 }
