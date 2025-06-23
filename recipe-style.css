@@ -5,12 +5,17 @@ h1{
     text-align:center;
 }
 .image{
+
     margin-right: 30px;
     width:400px;
     float:left;
+    border: 5px solid red;
+   
 }
 .ingre{
-
     margin-right:auto;
     display: inline-block;
+}
+p,li{
+    font-family:'Times New Roman', Times, serif;
 }
